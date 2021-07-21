@@ -5,16 +5,15 @@
   <summary>:zap: GitHub Stats</summary>
   
 <img align="center" alt="Armağan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ArmiTheWiz&theme=vue-dark&show_icons=true" />
-<img align="center" alt="Armağan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmiTheWiz)](https://github.com/anuraghazra/github-readme-stats" />
 </details>
 
   
 - 🔭 I’m currently working on Python applications and Data Science projects
 - 🌱 I’m currently learning machine learning algorithms
-- ⚡ Fun fact: In Python 3, ಠ_ಠ is a valid identifier
+- ✨ Fun fact: In Python 3, ಠ_ಠ is a valid identifier
 
 
-
+<img align="center" alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/armagankandemir" />
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/armagankandemir)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafaarmagankandemir/)
 [![Mail Badge](https://img.shields.io/badge/mertcobanov@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mertcobanov@gmail.com)](mailto:m.a.kandemir@hotmail.com)
