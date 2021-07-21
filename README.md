@@ -7,7 +7,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArmiTheWiz&theme=vue-dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmiTheWiz)](https://github.com/anuraghazra/github-readme-stats)
-
 <details>
   
 - 🔭 I’m currently working on Python applications and Data Science projects
