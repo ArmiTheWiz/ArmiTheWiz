@@ -30,9 +30,11 @@
 
 </details>
 
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/armagankandemir)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafaarmagankandemir/)
+[![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=kandemirarmagan&logoColor=white)](https://twitter.com/armagankandemir)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=M. Armağan Kandemir&logoColor=white)](https://www.linkedin.com/in/mustafaarmagankandemir/)
 [![Mail Badge](https://img.shields.io/badge/m.a.kandemir@hotmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:m.a.kandemir@hotmail.com)](mailto:m.a.kandemir@hotmail.com)
+
+
 
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=ArmiTheWiz.ArmiTheWiz" alt="visitor badge"/>
