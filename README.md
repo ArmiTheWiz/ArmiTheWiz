@@ -6,13 +6,14 @@
 <a href="https://twitter.com/armagankandemir">
   <img align="left" alt="Armağan's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href=https://www.linkedin.com/in/mustafaarmagankandemir/">
+<a href=https://www.linkedin.com/in/mustafaarmagankandemir">
   <img align="left" alt="Armağan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/armiarmagan">
   <img align="left" alt="Armağan's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a> 
-
+<br />
+                                                                                                                                                  
 - 🔭 I’m currently working on Python applications and Data Science projects
 - 🌱 I’m currently learning machine learning algorithms
 - ✨ Fun fact: In Python 3, ಠ_ಠ is a valid identifier
