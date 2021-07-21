@@ -1,16 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Armağan</h1>
 
-
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArmiTheWiz&theme=vue-dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmiTheWiz)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<p align="center">- 🔭 I’m currently working on Python applications and Data Science projects </p>
-<p align="center">- 🌱 I’m currently learning machine learning algorithms</p>
-<p align="center">- ⚡ Fun fact: In Python 3, ಠ_ಠ is a valid identifier</p>
+<details>
+  
+- 🔭 I’m currently working on Python applications and Data Science projects
+- 🌱 I’m currently learning machine learning algorithms
+- ⚡ Fun fact: In Python 3, ಠ_ಠ is a valid identifier
 
 
 
