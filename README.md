@@ -6,7 +6,9 @@
 [![Mail Badge](https://img.shields.io/badge/mertcobanov@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mertcobanov@gmail.com)](mailto:m.a.kandemir@hotmail.com)
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="ArmiTheWiz's GitHub Stats" src="https://github-readme-stats.ArmiTheWiz.vercel.app/api?username=Armimarmi&show_icons=true&hide_border=true" />
+</details>
   
 - ⚡ Fun fact: In Python 3, ಠ_ಠ is a valid identifier.
 <!--
