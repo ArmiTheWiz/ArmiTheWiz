@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Armağan</h1>
-<iframe src="https://giphy.com/embed/dxn6fRlTIShoeBr69N" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hackernoon-hacker-noon-random-pixels-dxn6fRlTIShoeBr69N">via GIPHY</a></p>
+
+<img align="right" alt="GIF" src="https://github.com/ArmiTheWiz/ArmiTheWiz/blob/main/code.gif?raw=true" width="480" height="480" />
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   
