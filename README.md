@@ -3,15 +3,15 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArmiTheWiz&theme=vue-dark&show_icons=true)
+<p align="center"> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArmiTheWiz&theme=vue-dark&show_icons=true) </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmiTheWiz)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-- 🔭 I’m currently working on Python applications and Data Science projects
-- 🌱 I’m currently learning machine learning algorithms
-- ⚡ Fun fact: In Python 3, ಠ_ಠ is a valid identifier.
- </p>
+
+<p align="center">- 🔭 I’m currently working on Python applications and Data Science projects </p>
+<p align="center">- 🌱 I’m currently learning machine learning algorithms</p>
+<p align="center">- ⚡ Fun fact: In Python 3, ಠ_ಠ is a valid identifier</p>
+
 
 
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/armagankandemir)
