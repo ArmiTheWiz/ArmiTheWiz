@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Armağan</h1>
-
+<iframe src="https://giphy.com/embed/dxn6fRlTIShoeBr69N" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hackernoon-hacker-noon-random-pixels-dxn6fRlTIShoeBr69N">via GIPHY</a></p>
 <details>
   <summary>:zap: GitHub Stats</summary>
   
@@ -18,6 +18,12 @@
 [![Mail Badge](https://img.shields.io/badge/m.a.kandemir@hotmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:m.a.kandemir@hotmail.com)](mailto:m.a.kandemir@hotmail.com)
 
 
+### Languages and Tools:
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 <!--
 **ArmiTheWiz/ArmiTheWiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
