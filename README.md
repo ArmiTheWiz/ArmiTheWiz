@@ -31,7 +31,7 @@
 </details>
 
 [![Twitter Badge](https://img.shields.io/badge/@armagankandemir-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/armagankandemir)
-[![Linkedin Badge](https://img.shields.io/badge/M.ArmağanKandemir-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafaarmagankandemir/)
+[![Linkedin Badge](https://img.shields.io/badge/M.Armağan_Kandemir-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafaarmagankandemir/)
 [![Mail Badge](https://img.shields.io/badge/m.a.kandemir@hotmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:m.a.kandemir@hotmail.com)](mailto:m.a.kandemir@hotmail.com)
 
 
