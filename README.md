@@ -3,16 +3,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/ArmiTheWiz/ArmiTheWiz/blob/main/code.gif?raw=true" width="240" height="240" />
 
-<a href="https://twitter.com/armagankandemir">
-  <img align="left" alt="Armağan's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href=https://www.linkedin.com/in/mustafaarmagankandemir">
-  <img align="left" alt="Armağan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/armiarmagan">
-  <img align="left" alt="Armağan's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> 
-<br />
                                                                                                                                                   
 - 🔭 I’m currently working on Python applications and Data Science projects
 - 🌱 I’m currently learning machine learning algorithms
@@ -36,7 +26,7 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Armağan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmiTheWiz" />
+<img align="center" alt="Armağan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmiTheWiz" />
 
 </details>
 
