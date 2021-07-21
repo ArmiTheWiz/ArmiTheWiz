@@ -7,11 +7,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmiTheWiz)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1 align="center">
+<p align="center">
 - 🔭 I’m currently working on Python applications and Data Science projects
 - 🌱 I’m currently learning machine learning algorithms
 - ⚡ Fun fact: In Python 3, ಠ_ಠ is a valid identifier.
- </h1>
+ </p>
 
 
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/armagankandemir)
