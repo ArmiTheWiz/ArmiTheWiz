@@ -1,12 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Armağan</h1>
 
-<h1 align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArmiTheWiz&theme=vue-dark&show_icons=true)
- </h1>
+
 - 🔭 Python SQL C++
 - ⚡ Fun fact: In Python 3, ಠ_ಠ is a valid identifier.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArmiTheWiz&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/armagankandemir)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafaarmagankandemir/)
