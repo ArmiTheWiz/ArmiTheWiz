@@ -5,6 +5,8 @@
   <summary>:zap: GitHub Stats</summary>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArmiTheWiz&theme=vue-dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmiTheWiz)](https://github.com/anuraghazra/github-readme-stats)
+  
+<img align="center" alt="Armağan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ArmiTheWiz&theme=vue-dark&show_icons=true" />
 </details>
 
   
