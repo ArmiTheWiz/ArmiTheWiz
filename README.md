@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Armağan</h1>
 
-<img align="right" alt="GIF" src="https://github.com/ArmiTheWiz/ArmiTheWiz/blob/main/code.gif?raw=true" width="240" height="240" />
+<img align="right" alt="GIF" src="https://github.com/ArmiTheWiz/ArmiTheWiz/blob/main/code.gif?raw=true" width="200" height="200" />
 
                                                                                                                                                   
 - 🔭 I’m currently working on Python applications and Data Science projects
@@ -20,15 +20,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-<img align="center" alt="Armağan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ArmiTheWiz&theme=vue-dark&show_icons=true" />
+<img align="center" alt="Armağan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ArmiTheWiz&theme=vue-dark&show_icons=true" /><img align="center" alt="Armağan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmiTheWiz&theme=vue-dark" />
 </details>
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="center" alt="Armağan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmiTheWiz&theme=vue-dark" />
-
-</details>
+<br /> 
 
 <br /> 
 
