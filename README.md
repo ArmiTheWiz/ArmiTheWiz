@@ -14,7 +14,7 @@
 #### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/ArmiTheWiz/ArmiTheWiz/blob/main/icons/vscode.png"/>
 <img align="left" alt="python" width="26px" src="https://github.com/ArmiTheWiz/ArmiTheWiz/blob/main/icons/python.png"/>
-<img align="left" alt="Jupyter" width="26px" src="https://github.com/ArmiTheWiz/ArmiTheWiz/blob/main/icons/vscode.png"/>
+<img align="left" alt="Jupyter" width="26px" src="https://github.com/ArmiTheWiz/ArmiTheWiz/blob/main/icons/jupyter.png"/>
 <img align="left" alt="SQL" width="26px" src="https://github.com/ArmiTheWiz/ArmiTheWiz/blob/main/icons/sql.png"/>
 <img align="left" alt="cpp" width="26px" src="https://github.com/ArmiTheWiz/ArmiTheWiz/blob/main/icons/cpp.png"/>
 <img align="left" alt="Git" width="26px" src="https://github.com/ArmiTheWiz/ArmiTheWiz/blob/main/icons/git.png"/>
