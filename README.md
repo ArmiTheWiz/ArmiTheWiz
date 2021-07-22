@@ -6,7 +6,6 @@
                                                                                                                                                   
 - 🔭 I’m currently working on Python applications and Data Science projects
 - 🌱 I’m currently learning machine learning algorithms
-- <img width="12" src="https://github.com/ArmiTheWiz/ArmiTheWiz/blob/main/icons/python.png" alt="" /> My favorite programming language is Python
 - ✨ Fun fact: In Python 3, ಠ_ಠ is a valid identifier
 
 
