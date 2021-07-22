@@ -20,7 +20,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-<img height="137px" align="center" alt="Armağan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ArmiTheWiz&theme=vue-dark&show_icons=true" /><img height="137px" align="center" alt="Armağan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmiTheWiz&theme=vue-dark" />
+<img height="150px" align="center" alt="Armağan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ArmiTheWiz&theme=vue-dark&show_icons=true" /><img height="150px" align="center" alt="Armağan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmiTheWiz&theme=vue-dark" />
 </details>
 
 <br /> 
