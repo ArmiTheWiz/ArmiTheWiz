@@ -15,8 +15,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/ArmiTheWiz/ArmiTheWiz/blob/main/icons/vscode.png"/>
 <img align="left" alt="python" width="26px" src="https://github.com/ArmiTheWiz/ArmiTheWiz/blob/main/icons/python.png"/>
 <img align="left" alt="Jupyter" width="26px" src="https://github.com/ArmiTheWiz/ArmiTheWiz/blob/main/icons/vscode.png"/>
-<img align="left" alt="MSSQL" width="26px" src="https://github.com/ArmiTheWiz/ArmiTheWiz/blob/main/icons/mssql.png"/>
-<img align="left" alt="PSQL" width="26px" src="https://github.com/ArmiTheWiz/ArmiTheWiz/blob/main/icons/oracle.png"/>
+<img align="left" alt="SQL" width="26px" src="https://github.com/ArmiTheWiz/ArmiTheWiz/blob/main/icons/sql.png"/>
 <img align="left" alt="cpp" width="26px" src="https://github.com/ArmiTheWiz/ArmiTheWiz/blob/main/icons/cpp.png"/>
 <img align="left" alt="Git" width="26px" src="https://github.com/ArmiTheWiz/ArmiTheWiz/blob/main/icons/git.png"/>
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
