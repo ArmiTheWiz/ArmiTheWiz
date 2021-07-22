@@ -27,10 +27,12 @@
 
 <br /> 
 
-[![Twitter Badge](https://img.shields.io/badge/@armagankandemir-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/armagankandemir)
-[![Linkedin Badge](https://img.shields.io/badge/M.Armağan_Kandemir-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafaarmagankandemir/)
-[![Mail Badge](https://img.shields.io/badge/m.a.kandemir@hotmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:m.a.kandemir@hotmail.com)](mailto:m.a.kandemir@hotmail.com)
-
+<p align="center">
+  <a href="mailto:m.a.kandemir@hotmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mustafaarmagankandemir/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/armagankandemir"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+</p>
 
 
 <p  align="center">
